@@ -6,6 +6,7 @@ Part B 包含5個checkpoint (有修改儲存的間隔變為100存取一次) 、b
 
 Part C 包含train後各episode的影片、一張結果圖、一張 rewards, loss, epsilon, and Q-values的比較圖、原始code
 
-Part D 包含LR、epsilon_decay、Batch_size三者的比較圖、原始code、跟最終report
+Part D 包含LR、epsilon_decay、Batch_size三者的比較圖、原始code、跟最終Report
+
 
 
